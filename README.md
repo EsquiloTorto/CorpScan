@@ -1,0 +1,2 @@
+# CorpScan
+Buscador de empresas.
