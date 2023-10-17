@@ -1,5 +1,8 @@
 # CorpScan
 Buscador de empresas.  
+# Casos de Uso e Histórias de Usuário
+[Casos de Uso e Histórias de Usuário](https://docs.google.com/spreadsheets/d/15gOOOYpY2VHKhWmfb38dpLy1Z02NmH_nlopBd-CqTgw/edit?usp=sharing)  
+  
 # **Metáfora do Sistema: Diretório de Empresas**
 
 Imagine que estamos criando um sistema digital que é como um "Diretório de Empresas" moderno e dinâmico. Neste diretório, queremos fornecer informações sobre várias empresas, tornando mais fácil para as pessoas encontrarem o que estão procurando.
